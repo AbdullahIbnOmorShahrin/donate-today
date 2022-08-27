@@ -1,0 +1,22 @@
+.header {
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 1440px;
+    height: 550px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding-top: 175px;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+button {
+    background-color: #FF5959;
+    border: 0;
+    border-radius: 5%;
+    padding: 5px 10px;
+    width: 160;
+    height: 56px;
+}
